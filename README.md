@@ -1,5 +1,5 @@
 # Real Estate Price Prediction
-![Project Logo](https://github.com/your-username/real-estate-prediction/raw/main/images/logo.png)
+![Project Logo](https://github.com/aka-0803/real-estate-price-prediction/blob/main/images/project_img.png?raw=true)
 ## Overview
 
 This project focuses on predicting real estate prices in Bangalore using a linear regression model. The backend is built with Python Flask, and the frontend utilizes HTML, CSS, and JS. The linear regression model is implemented using scikit-learn, and data processing involves NumPy, pandas, and matplotlib.
@@ -18,7 +18,7 @@ This project focuses on predicting real estate prices in Bangalore using a linea
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/real-estate-prediction.git
+    git clone https://github.com/aka-0803/real-estate-price-prediction.git
     cd real-estate-prediction
     ```
 
@@ -33,6 +33,8 @@ This project focuses on predicting real estate prices in Bangalore using a linea
 ## Usage
 
 - Navigate to the web interface and input relevant features to get a predicted real estate price.
+
+![Predicted Logo](https://github.com/aka-0803/real-estate-price-prediction/blob/main/images/project_img.png?raw=true)
 
 ## Data Preprocessing
 
