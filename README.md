@@ -34,15 +34,19 @@ This project focuses on predicting real estate prices in Bangalore using a linea
 
 - Navigate to the web interface and input relevant features to get a predicted real estate price.
 
-![Predicted Logo](https://github.com/aka-0803/real-estate-price-prediction/blob/main/images/project_img.png?raw=true)
+![Predicted Logo](https://github.com/aka-0803/real-estate-price-prediction/blob/main/images/price_predicted.png?raw=true)
 
 ## Data Preprocessing
 
 Before training the model, the dataset (`bangalore_house_prices.csv`) undergoes data cleaning and outlier removal to ensure the model's robustness.
 
+![data clean](https://github.com/aka-0803/real-estate-price-prediction/blob/main/images/na_val.png?raw=true)
+
 ## Model Training
 
 The linear regression model is trained using scikit-learn. K-fold cross-validation and grid search CV methods are employed to find the best hyperparameters.
+- **score**
+![score](https://github.com/aka-0803/real-estate-price-prediction/blob/main/images/score.png?raw=true)
 
 ## Evaluation
 
